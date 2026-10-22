@@ -1,0 +1,6 @@
+# Example domains file for --domains.
+# IMPORTANT: list ONLY domains you own or are explicitly authorized to assess.
+# One host per line. Lines starting with # are ignored.
+#
+# https://example.com
+# https://staging.mysite.test
